@@ -2,6 +2,8 @@
 
 Um aplicativo minimalista para rastrear hábitos, permitindo que você adicione, visualize e gerencie seus hábitos diários de forma simples e eficaz.
 
+[Acesse](https://habit-tracker-tawny-kappa.vercel.app/)
+
 ## Funcionalidades
 
 - **Adicionar Hábitos**: Crie novos hábitos com nome, frequência e cor.
